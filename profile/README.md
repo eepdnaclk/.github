@@ -16,5 +16,5 @@ If you want to be added to the organization, please contact an administrator via
 ## Main repositories
 
 - [Github pages](https://github.com/eepdnaclk/eepdnaclk.github.io)
-- [Server documentation](https://github.com/eepdnaclk/servers)
+- [Server documentation](https://github.com/eepdnaclk/server)
 
