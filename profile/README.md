@@ -9,7 +9,7 @@ If you want to be added to the organization, please contact an administrator via
 | Batch | Name | Email | Github |
 | --- | --- | --- | --- |
 | E15 | Lakshitha Ramanayake | ramanayake.lakshith1@gmail.com, lakshitharamanayake@eng.pdn.ac.lk | @LaKrAmA | 
-| E15 | Neranjan Jayasinghe |  rama@gmail.com, rama@eng.pdn.ac.lk | @rama |
+| E15 | Neranjan Senarath |  neranjansenarath95@gmail.com, neranjansenarath95@eng.pdn.ac.lk | NeranjanSenarath |
 | E16 | XYT |  rama@gmail.com, rama@eng.pdn.ac.lk | @rama |
 
 
